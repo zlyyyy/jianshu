@@ -1,0 +1,14 @@
+.todoList{
+  padding: 20px;
+  .todo-input{
+      width: 300px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+  }
+  .todo-list{
+      width: 800px;
+      .text{
+          line-height: 32px;
+      }
+  }
+}
