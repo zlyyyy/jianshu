@@ -9,7 +9,7 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "7",
     "moment": "^2.24.0",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "node-sass": "^4.11.0",
     "nodemon": "^1.19.3",
     "react": "^16.7.0",
